@@ -1,0 +1,60 @@
+.content h2{
+    font-family: tahoma;
+    font-weight: 700;
+    font-style: italic;
+    
+}
+.blog_title h2{
+    padding-top: 20px;
+    color: lightseagreen;
+}
+.blog_title input{
+    width: 98%;
+    height: 30px;
+    background-color: mistyrose;
+   
+}
+.blog_body textarea{
+    width: 98%;
+    height: 130px;
+    background-color: mistyrose;
+    
+}
+.blog_body input{
+    width: 98%;
+    height: 130px;
+    background-color: mistyrose;
+}
+.blog_body h3{
+    padding-top: 25px;
+    color: lightseagreen;
+}
+.blog_submit{
+    padding-top: 20px;
+
+}
+.blog_submit input{
+    width: 80px;
+    height: 40px;
+    background-color: green;
+}
+.content{
+    border: inset(black);
+    display: block;
+}
+.content h3{
+    font-family: tahoma;
+    font-weight: 600;
+    font-style: italic;
+    
+}
+.blog_title h3{
+    padding-top: 20px;
+    color: lightseagreen;
+}
+.blog_user input{
+    width: 50%;
+    height: 30px;
+    background-color: mistyrose;
+   
+}

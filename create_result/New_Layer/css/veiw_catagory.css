@@ -1,0 +1,13 @@
+.headding th{
+    padding: 0px 10px;
+    
+    text-align: center;
+}
+.body td{
+    padding: 0px 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+.headding{
+    margin-top: 40px;
+}

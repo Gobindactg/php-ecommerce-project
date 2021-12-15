@@ -1,0 +1,12 @@
+.header h2{
+    text-align: center;
+    color:rgb(246, 249, 250);
+    padding-top: 10px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    height: 50px;
+    background-color:#0d1137;
+    margin-bottom: 10px;
+}

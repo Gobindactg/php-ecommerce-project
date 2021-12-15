@@ -1,0 +1,32 @@
+.content label{
+    font-size: 16px;
+    padding: 5px 5px;
+    color: teal;
+    font-weight: 700;
+    font-family:tahoma;
+    display: block;
+}
+.content input{
+    width: 90%;
+    height: 20px;
+    background-color: pink;
+}
+.submit input{
+    background-color: green;
+    font-size: 16px;
+    color: yellow;
+    height: 30px;
+   
+}
+.submit{
+    height: 30px;
+    background-color: green;
+}
+.signup{
+    border: 2px solid black;
+}
+.content select{
+    width: 45%;
+    height: 25px;
+    background-color: pink;
+}

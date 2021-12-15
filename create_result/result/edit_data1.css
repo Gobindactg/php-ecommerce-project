@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    margin: 0 auto;
+    
+   
+}
+.form1 h2{
+    text-align: center;
+}
+
+
+.container input{
+    width: 100%;
+    text-align: center;
+    background-color: lightpink;
+   
+}
+.container h2{
+    text-align: center;
+    color:green;
+    padding-top: 20px;
+}
+.tbody td{
+    border: 1px solid black;
+}

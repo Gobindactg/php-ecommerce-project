@@ -1,0 +1,12 @@
+.blog_body input{
+    width: 98%;
+    height: 130px;
+    background-color: mistyrose;
+}
+.blog_submit input:hover{
+    color:yellow;
+    font: 55px;
+    background-color: rgb(47, 4, 238);
+    
+    
+}

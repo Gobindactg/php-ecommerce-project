@@ -1,0 +1,62 @@
+
+
+
+
+  .body input{
+    width: 80%;
+    height: 30px;
+    background-color: lightpink;
+    border: 1px solid black;
+    text-align: left;
+    display: inline-block;
+    
+    
+}
+.body select{
+    width: 80%;
+    height: 30px;
+    background-color: lightpink;
+    border: 1px solid black;
+    text-align: left;
+    display: inline-block;
+    
+    
+}
+
+.submit{
+   
+    color: wheat;
+    border: 0px solid green;
+    width: 100%;
+}
+.submit input{
+    background-color: green;
+    color: wheat;
+    text-align: center;
+}
+.body label{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(4, 49, 31);
+}
+.header2{
+    color:green;
+   
+}
+.full1{
+    background-color: #bbb;
+    margin: 0 auto;
+    width: 50%;
+
+}
+.forgot a{
+    color: red;
+    font-size: 20px;
+    width: 50%;
+}
+.thead th{
+    border: 2px solid black;
+}
+
+

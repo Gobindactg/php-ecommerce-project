@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="modal.css">
+<script src="modal.js"></script>
+
+
+</head>
+<body>
+
+
+
+
+<button id="myBtn">Login</button>
+<div id="myModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+            <label for="">Email Address</label>   <br>
+            <input type="email" name="email" placeholder="Enter your email address">  <br>  
+            <div class="password">
+                <label for="">Password</label><br>
+                <input type="password" name="password" placeholder="enter your password">  
+            </div>
+            <div class="submit">
+                <input type="submit" name="submit" value="Login">
+            </div>              
+  </div>
+      
+</div>
+
+<script>
+var modal = document.getElementById("myModal");
+
+var btn = document.getElementById("myBtn");
+
+var span = document.getElementsByClassName("close")[0];
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+span.onclick = function() {
+  modal.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>

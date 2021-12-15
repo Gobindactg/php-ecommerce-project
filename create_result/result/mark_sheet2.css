@@ -1,0 +1,40 @@
+
+.main{
+    width: 100%;
+    margin: 0 auto;
+    background-color:linear-gradient(to bottom, #ffffff 0%, #ffffcc 100%);
+}
+
+
+.header{
+    width: 100%;
+    margin: 0 auto;
+    text-align:center;
+    padding: 10px;
+}
+.name_student{
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px;
+}
+
+.thead{
+    border: .5px solid black;
+    
+}
+.thead th{
+    width: 15%;
+    border: .5px solid burlywood;
+}
+.tdbody td{
+    border: .2px solid black;
+}
+.tbody {
+    width: 15%;
+    text-align:center;
+}
+.subject{
+    text-align: left;
+   
+}

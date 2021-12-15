@@ -1,0 +1,104 @@
+body{
+   background-color:lightslategray;
+   margin: 0;
+}
+#wrapper{
+    width: 80%;
+    height: 700px;
+    margin: auto;
+    background-color: skyblue;
+    
+}
+#header_wrapper{
+    width: 100%;
+    height: 100px;
+    background-color: tan;
+}
+#header_wrapper #logo{
+    width: 15%;
+    height: 100px;
+    background-color:teal;
+    float: left;
+}
+#header_wrapper #banner{
+    width: 70%;
+    height: 100px;
+    background-color:yellow;
+    float: left;
+}
+
+#header_wrapper #add{
+    width: 15%;
+    height: 100px;
+    background-color:yellowgreen;
+    float: left;
+}
+#menu_wrapper{
+    width: 100%;
+    height: 50px;
+    background-color:salmon;
+    margin-top: 3px;
+}
+#content_wrapper{
+    width: 100%;
+    height: 380px;
+    background-color: wheat;
+    margin-top: 3px;
+}
+#content_wrapper #left_content{
+    width: 20%;
+    height: 380px;
+    background-color: silver;
+    float: left;
+}
+#content_wrapper #main_content{
+    width: 65%;
+    height: 380px;
+    background-color: slateblue;
+    float: left;
+}
+#content_wrapper #right_content{
+    width: 15%;
+    height: 380px;
+    background-color: silver;
+    float: left;
+}
+#big_footer_wrapper{
+    width: 100%;
+    height: 100px;
+    background-color: thistle;
+    margin-top: 3px;
+}
+#big_footer_wrapper #big_footer_one{
+    width: 33.33%;
+    height: 100px;
+    background-color: steelblue;
+    float: left;
+}
+#big_footer_wrapper #big_footer_two{
+    width: 33.33%;
+    height: 100px;
+    background-color:violet;
+    float: left;
+}
+#big_footer_wrapper #big_footer_three{
+    width: 33.33%;
+    height: 100px;
+    background-color: thistle;
+    float: left;
+}
+
+#footer{
+    width: 100%;
+    height: 60px;
+    background-color:wheat;
+    margin-top: 3px;
+}
+#footer #social img{
+    width: 8%;
+    height: 60px;
+    background-color:wheat;
+    margin-top: 3px;
+    float: left;
+    padding-left: 6.8%;
+}

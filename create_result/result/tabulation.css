@@ -1,0 +1,52 @@
+
+.main{
+    width: 80%;
+    margin: 0 auto;
+    background-color:linear-gradient(to bottom, #ffffff 0%, #ffffcc 100%);
+}
+
+
+.header{
+    width: 100%;
+    margin: 0 auto;
+    text-align:center;
+   
+}
+.name_student h5{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+   margin-bottom: 40px;
+   
+}
+
+.thead{
+    border: .5px solid black;
+    
+}
+.thead th{
+     
+    text-align: center;
+    width: 10%;
+}
+.tdbody td{
+    
+    text-align: center;
+    width: 15%;
+    padding: 0px;
+}
+.tbody {
+    width: 15%;
+    text-align:center;
+    margin-top: 0;
+}
+.tbody tr td{
+    text-align: center;
+    width: 10%;
+}
+.tbody tr{
+    width: 10%;
+}
+.table-bordered{
+    margin-top: -18px;
+}

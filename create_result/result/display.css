@@ -1,0 +1,23 @@
+.header h3{
+    text-align: center;
+}
+.header h5{
+    text-align: center;
+}
+.header h4{
+    text-align: center;
+}
+.option{
+    width: 160px;
+}
+.buttons{
+    width: 160px;
+    background-color: forestgreen;
+    border: 2px solid yellow;
+}
+.print{
+    width: 160px;
+    background-color: forestgreen;
+    border: 2px solid yellow;
+
+}

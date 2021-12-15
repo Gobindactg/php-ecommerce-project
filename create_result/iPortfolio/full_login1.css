@@ -1,0 +1,95 @@
+.header{
+    width: 50%;
+    height: 70px;
+    background-color: lightseagreen;
+    float: right;
+    
+}
+.header h2{
+    float: left;
+    margin-left: 20px;
+}
+.header input{
+    width: 25%;
+    
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 40%;
+    background-color: navajowhite;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+   
+    height: 500px;
+     /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column img{
+      width: auto;
+      height: 741.5px;
+     
+  }
+
+  .body input{
+    width: 470px;
+    height: 30px;
+    background-color: lightpink;
+    border: 1px solid black;
+    
+}
+.body{
+    margin: 15px;
+
+}
+.submit{
+    background-color: green;
+    color: wheat;
+    border: 0px solid green;
+    width: 50%;
+}
+.submit input{
+    background-color: green;
+    color: wheat;
+}
+.body label{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: yellow;
+}
+.header2{
+    color:green;
+   
+}
+.full{
+    background-color: #bbb;
+
+}
+.forgot a{
+    color: red;
+    font-size: 20px;
+}
+.gender option{
+    width: 470px;
+    height: 30px;
+    background-color: lightpink;
+    border: 1px solid black;
+}
+.body select{
+    width: 470px;
+    height: 30px;
+    background-color: lightpink;
+    border: 1px solid black;
+}

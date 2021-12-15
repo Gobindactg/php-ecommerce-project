@@ -1,0 +1,87 @@
+.container h4{
+    text-align: right;
+    color:red;
+    background-color:white
+}
+.email_head input{
+    width: 475px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.email_subject input{
+    width: 475px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.email_body input{
+    width: 475px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+
+    
+}
+.email_body label{
+    margin-left: 10px;
+    color: green;
+    margin-top: 2px;
+}
+.email_head label{
+    margin-left: 10px;
+    color: green;
+    margin-top: 12px;
+}
+.email_subject label{
+    margin-left: 10px;
+    color: green;
+    margin-top: 2px;
+    
+}
+.email_submit{
+    
+    color: forestgreen;
+   
+    margin-left: 10px;
+    margin-bottom:10px;
+}
+.email_submit input{
+    margin-top: 15x;
+}
+.modal-content{
+    background-color: lightblue;
+    display: inline-block;
+    width: 490px;
+    margin: 10px;
+}
+input{
+    float: center;
+    clear: both;
+}
+.form{
+    overflow: hidden;
+}
+.container2{
+    width: 50%;
+    margin: 0 auto;
+}
+.body{
+    background-color:rgb(247, 242, 236);
+}
+.write input{
+    width: 100%;
+    height: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.write2 input{
+    width: 100%;
+    height: 80px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+    
