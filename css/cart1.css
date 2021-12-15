@@ -1,0 +1,10 @@
+.container{
+    padding: 20px 5px;
+    
+}
+.table_head th{
+    font-family: tahoma;
+    font-weight: 700;
+    padding: 20px 0px;
+}
+

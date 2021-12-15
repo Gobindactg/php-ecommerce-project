@@ -1,0 +1,58 @@
+.form-group input{
+    height: 40px;
+    width: 100%;
+    
+ 
+}
+.regi{
+    background-color: lightsteelblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.form-group label{
+    font-family: tahoma;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.form-group input:hover{
+    background-color:lightslategrey;
+    color: yellow;
+    font-weight: 900;
+   
+}
+.form-control input:hover{
+    background-color:lightslategrey;
+    color: yellow;
+    font-weight: 600;
+   
+}
+.btn-accent:hover{
+    background-color: green;
+    color: yellow;
+}
+.regi_headder{
+    background-color:green;
+    height: 80px;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 600;
+    font-family: tahoma;
+    font-style: italic;
+    
+}
+.form-group label,input{
+    padding-left: 15px;
+}
+.form-control{
+    width: 100%;
+}
+.form-control:hover{
+   
+    background-color: lightslategrey;
+}
+.button{
+    width: 100%;
+}

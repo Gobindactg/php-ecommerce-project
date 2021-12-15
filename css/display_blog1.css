@@ -1,0 +1,29 @@
+
+.blog{
+    width: 100%;
+    float: right;
+    overflow: hidden;
+    display: block;
+    
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: lightgrey;
+}
+
+.blog p{
+    padding-bottom: 10px;
+}
+.blog h3{
+    font-family: tahoma;
+    font-style: italic;
+    padding: 5px 0px;
+}
+.blog_body p{
+    background-color: white;
+    padding: 0px 10px;
+}
+
+.blog_button{
+    padding-left: 10px;
+ }

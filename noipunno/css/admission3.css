@@ -1,0 +1,57 @@
+.container{
+    background-color:rgb(189, 206, 243);
+    color: black;
+    
+   
+   
+}
+.container h2{
+    text-align: center;
+    color: green;
+    font-family: tahoma;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 400;
+}
+.col-sm-2{
+  padding-left: 3%;  
+  
+}
+.select{
+    width: 150%;
+}
+.submit input:hover{
+    
+    color: yellow;
+    background-color: green;
+    
+}
+body{
+    background-color: slategrey;
+    
+}
+.header_button{
+    
+    width: 10%;
+}
+.header{
+    
+    width: 90%;
+}
+
+.col-sm-10 input:hover{
+    background-color:rgb(56, 58, 57);
+    color: yellow;
+}
+.col-sm-10 select:hover{
+    background-color:rgb(56, 58, 57);
+    color: yellow;
+}
+.form-control:hover{
+    background-color: seagreen;
+    color: yellow;
+}
+.col-sm-2{
+    text-align: left;
+    
+}
